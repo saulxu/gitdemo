@@ -11,7 +11,8 @@ public class Demo6ApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("kdkdkdk");
+		System.out.println("kddk");
+
 	}
 
 }
